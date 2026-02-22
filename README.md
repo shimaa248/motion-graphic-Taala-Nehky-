@@ -5,7 +5,7 @@ Ta’ala Nehky: A Vision for Mental Well-being(a pioneering motion graphic proje
 
 ---
 
-## 👥 Team Members
+## 👥 Team Members-Group A
 - **[Shimaa Rabiea Abd elzaher]** - Project Leader 
 - **[Bosy Mostafa Abd El Raouf]** - project member
 - **[Rawda Omar El-Demerdash]** - project member
